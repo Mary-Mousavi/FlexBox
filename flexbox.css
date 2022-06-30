@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: row;    
+}
+.search{
+    order: 1;
+
+}
+.home{
+    order: 0;
+   
+}
+.login{
+    order: -1;
+   
+    
+}
